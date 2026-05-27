@@ -8,6 +8,10 @@
 
 [4]  Zohair, L. M. A. (2018). The future of software engineering by 2050s: Will ai replace software engineers?. International Journal of Information Technology and Language Studies, 2(3).
 
-[5] Necula, S. C. (2023). Artificial Intelligence Impact On The Labour Force--Searching For The Analytical Skills Of The Future Software Engineers. arXiv preprint arXiv:2302.13229
+[5] Necula, S. C. (2023). Artificial Intelligence Impact On The Labour Force--Searching For The Analytical Skills Of The Future Software Engineers. arXiv preprint arXiv:2302.13229.
 
-[6] Treude, C., & Gerosa, M. A. (2025, April). How developers interact with AI: A taxonomy of human-AI collaboration in software engineering. In 2025 IEEE/ACM Second International Conference on AI Foundation Models and Software Engineering (Forge) (pp. 236-240). IEEE
+[6] Treude, C., & Gerosa, M. A. (2025, April). How developers interact with AI: A taxonomy of human-AI collaboration in software engineering. In 2025 IEEE/ACM Second International Conference on AI Foundation Models and Software Engineering (Forge) (pp. 236-240). IEEE.
+
+[7] Peng, S., Kalliamvakou, E., Cihon, P., & Demirer, M. (2023). The impact of ai on developer productivity: Evidence from github copilot. arXiv preprint arXiv:2302.06590.
+
+[8] Barke, S., James, M. B., & Polikarpova, N. (2023). Grounded copilot: How programmers interact with code-generating models. Proceedings of the ACM on Programming Languages, 7(OOPSLA1), 85-111.
