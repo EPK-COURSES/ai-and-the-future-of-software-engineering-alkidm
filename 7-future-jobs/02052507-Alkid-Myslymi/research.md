@@ -81,3 +81,25 @@
 
      Conclusion: Automating manual tasks does not aim to replace programmers, but to shift their focus on more essential processes, such as high-level analysis and
     architectural patterns, due to the efficiency and productivity of this method by over 55 %.
+
+## 6. Human skills which are difficult to automate 
+
+     Although artificial intelligence is doing a pretty good job in generating lines of code quickly and automating routine tasks, its limitations in terms of structure 
+    and logic, mean that software engineering is a discipline that operates parallel to other human disciplines. Recent researches in this field are showing that AI-based tools are not replacing programmers, but are shifting their work towards high-level "creative" and structural skills that machines are unable to do. 
+ 
+     A. Requirements Clarity and the Role of Social Intelligence 
+    One of the biggest obstacles regarding software engineering is related to requirements engineering and the way requirements are articulated by customers and managers: 
+    1. According to Welsh's analysis [9], the role of engineers will be significantly transformed compared to previous years. The automation of code has led to the human aspect being focused on non-programming skills, such as management or interactive communication. 
+    2. AI does not possess social skills and is unable to understand the context of a situation to reveal the real needs of stakeholders. This fact makes this ability remain entirely exclusive to humans.
+
+     B. Choosing the architectural design and solving complex problems: 
+    1. According to Ebert and Louridas [10], AI models do not possess critical thinking. The design of architectures requires several factors, such as: performance, scalability or economic plan. 
+    2. The impact of integrating different modules in a company's infrastructure cannot be predicted by AI, because as a process it requires human experience and intuition.
+
+    C. Security and Legal Issues: 
+    1. Ebert and Louridas [10] argue that AI tools often generate correct code, but simply make logical simplifications that violate security standards. 
+    2. Surveillance of AI’s agreement with security terms is a responsibility which totally belongs to software engineers. Machines cannot be responsible for ethical or security issues, leaving the legal liability on the project's programmers or managers.
+    
+     Conclusion: The automation of software engineering does not devalue the role of programmers in projects. Also, if the level of knowledge is at the required standard,
+    it even elevates this profession to a higher level. According to studies, the skills that will identify successful engineers in the future are: critical thinking,
+    communication and resource management.

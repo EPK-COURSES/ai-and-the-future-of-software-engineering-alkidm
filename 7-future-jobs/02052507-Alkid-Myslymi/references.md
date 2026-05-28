@@ -15,3 +15,7 @@
 [7] Peng, S., Kalliamvakou, E., Cihon, P., & Demirer, M. (2023). The impact of ai on developer productivity: Evidence from github copilot. arXiv preprint arXiv:2302.06590.
 
 [8] Barke, S., James, M. B., & Polikarpova, N. (2023). Grounded copilot: How programmers interact with code-generating models. Proceedings of the ACM on Programming Languages, 7(OOPSLA1), 85-111.
+
+[9] Welsh, M. (2022). The end of programming. Communications of the ACM, 66(1), 34-35.
+
+[10] Ebert, C., & Louridas, P. (2023). Generative AI for software practitioners. IEEE software, 40(4), 30-38.
